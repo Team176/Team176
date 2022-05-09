@@ -18,5 +18,22 @@ Takım 176
 
 # Ürün Açıklaması
 
-- İl
+- İlişki perisi uygulaması, ilişki tavsiyesi konusunu hedef alan sosyal bir platform olup; anonim bir şekilde kullanıcıların soru sorup cevaplayabildikleri bir uygulama olmayı amaçlıyor. 
+- Uygulama aynı zamanda profesyonel olarak (alanında uzman insanlar) da tavsiye verilmesine açıktır.
+
  
+# Ürün Özellikleri
+
+- Kullanıcı hesabı oluşturma
+- Soru sorabilme
+- Soru cevaplayabilme
+- Soruları konu ve kategorilerine göre ayırabilme
+
+
+# Hedef Kitle
+
+- 7+ üzeri kullanıcılar
+- İlişki konusunda tavsiye almak veya vermek isteyen kullanıcılar
+
+
+

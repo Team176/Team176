@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Team176/Team176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Takım İsmi
 
-Here are some ideas to get you started:
+Takım 176
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ürün İle İlgili Bilgiler
+
+# Takım Elemanları 
+
+ - Levent İrdem / Scrum Master
+ - Büşra Nur Saraçoğlu / Developer
+ - Helin Başak Bozteke / Developer
+
+# Ürün İsmi 
+
+-- İlişki Perisi --
+
+# Ürün Açıklaması
+
+- İl
+ 
